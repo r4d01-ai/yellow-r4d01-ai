@@ -1,0 +1,5 @@
+# Binaries
+/yellow-r4d01-ai
+*.exe
+*.test
+*.out
